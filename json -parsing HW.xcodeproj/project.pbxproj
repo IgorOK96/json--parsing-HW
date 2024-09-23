@@ -14,7 +14,7 @@
 		9A8048522CA034CB0044AFB8 /* Exceptions for "json -parsing HW" folder in "json -parsing HW" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				"App Info/Info.plist",
 			);
 			target = 9A80483F2CA034C90044AFB8 /* json -parsing HW */;
 		};
